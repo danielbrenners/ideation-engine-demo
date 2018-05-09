@@ -1,0 +1,1956 @@
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+saving /Users/dbrenners/Desktop/idai/cv-api/uploads/board_3.jpeg
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+saving /Users/dbrenners/Desktop/idai/cv-api/uploads/
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "serverUploadSave.py", line 39, in api_root
+    img.save(saved_path)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/PIL/Image.py", line 1913, in save
+    raise ValueError('unknown file extension: {}'.format(ext))
+ValueError: unknown file extension: 
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+saving /Users/dbrenners/Desktop/idai/cv-api/uploads/
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "serverUploadSave.py", line 39, in api_root
+    img.save(saved_path)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/PIL/Image.py", line 1913, in save
+    raise ValueError('unknown file extension: {}'.format(ext))
+ValueError: unknown file extension: 
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+saving /Users/dbrenners/Desktop/idai/cv-api/uploads/board_3.jpeg
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+saving /Users/dbrenners/Desktop/idai/cv-api/uploads/board_3.jpeg
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+saving /Users/dbrenners/Desktop/idai/cv-api/uploads/board_3.jpeg
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+saving /Users/dbrenners/Desktop/idai/cv-api/uploads/board_3.jpeg
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_2.py", line 44, in api_root
+    imwrite( "./images/test.jpg", image_2 );
+NameError: global name 'imwrite' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+saving /Users/dbrenners/Desktop/idai/cv-api/uploads/board_3.jpeg
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_2.py", line 40, in api_root
+    img = cv2.imdecode(npimg, cv2.CV_LOAD_IMAGE_UNCHANGED)
+AttributeError: 'module' object has no attribute 'CV_LOAD_IMAGE_UNCHANGED'
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api/uploads/
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_2.py", line 61, in api_root
+    color = cv2.inRange(image, colorDark, colorLight)
+NameError: global name 'image' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_2.py", line 90, in api_root
+    cv2.imwrite( "../images", postit );
+error: /tmp/opencv-20171031-96694-16heojr/opencv-3.3.1/modules/imgcodecs/src/loadsave.cpp:677: error: (-2) could not find a writer for the specified extension in function imwrite_
+
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_2.py", line 115, in api_root
+    scan_colored_postits(YELLOW_DARK, YELLOW_LIGHT)
+  File "server_2.py", line 60, in scan_colored_postits
+    color = cv2.inRange(image, colorDark, colorLight)
+NameError: global name 'image' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_2.py", line 117, in api_root
+    return jsonify({'texts': texts}), 201
+NameError: global name 'texts' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_2.py", line 134, in api_root
+    texts_for_yellow = scan_colored_postits(image, YELLOW_DARK, YELLOW_LIGHT)
+  File "server_2.py", line 58, in scan_colored_postits
+    if color == "orange":
+NameError: global name 'color' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_2.py", line 134, in api_root
+    texts_for_yellow = scan_colored_postits(image, yellow)
+NameError: global name 'yellow' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 141, in api_root
+    'yellow': scan_colored_postits(image, "yellow"),
+  File "server.py", line 78, in scan_colored_postits
+    color_mask = cv2.inRange(image, colorDark, colorLight)
+error: /tmp/opencv-20171031-96694-16heojr/opencv-3.3.1/modules/core/src/arithm.cpp:1769: error: (-209) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function inRange
+
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 141, in api_root
+    'yellow': scan_colored_postits(image, "yellow"),
+  File "server.py", line 78, in scan_colored_postits
+    color_mask = cv2.inRange(image, colorDark, colorLight)
+error: /tmp/opencv-20171031-96694-16heojr/opencv-3.3.1/modules/core/src/arithm.cpp:1769: error: (-209) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function inRange
+
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 141, in api_root
+    'yellow': scan_colored_postits(image, "yellow"),
+  File "server.py", line 78, in scan_colored_postits
+    color_mask = cv2.inRange(image, colorDark, colorLight)
+error: /tmp/opencv-20171031-96694-16heojr/opencv-3.3.1/modules/core/src/arithm.cpp:1769: error: (-209) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function inRange
+
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 142, in api_root
+    'pink': scan_colored_postits(image, "pink")
+  File "server.py", line 114, in scan_colored_postits
+    return texts_for_a_color
+UnboundLocalError: local variable 'texts_for_a_color' referenced before assignment
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 141, in api_root
+    'yellow': scan_colored_postits(image, "yellow"),
+  File "server.py", line 78, in scan_colored_postits
+    color_mask = cv2.inRange(image, colorDark, colorLight)
+error: /tmp/opencv-20171031-96694-16heojr/opencv-3.3.1/modules/core/src/arithm.cpp:1769: error: (-209) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function inRange
+
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 142, in api_root
+    'yellow': scan_colored_postits(image, "yellow"),
+  File "server.py", line 78, in scan_colored_postits
+    color_mask = cv2.inRange(image, colorDark, colorLight)
+error: /tmp/opencv-20171031-96694-16heojr/opencv-3.3.1/modules/core/src/arithm.cpp:1769: error: (-209) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function inRange
+
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 142, in api_root
+    'yellow': scan_colored_postits(image, "yellow"),
+  File "server.py", line 78, in scan_colored_postits
+    color_mask = cv2.inRange(image, colorDark, colorLight)
+error: /tmp/opencv-20171031-96694-16heojr/opencv-3.3.1/modules/core/src/arithm.cpp:1769: error: (-209) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function inRange
+
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 151, in api_root
+    results_for_yellow = scan_colored_postits(image, "yellow")
+  File "server.py", line 123, in scan_colored_postits
+    results_for_color.append({"text" : detect_text('./images/image_to_cloud.jpg'), "color" : color, "y": y})
+  File "server.py", line 58, in detect_text
+    return texts[0].description
+IndexError: list index out of range
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 163, in api_root
+    results_for_pink = scan_colored_postits(image, "pink")
+  File "server.py", line 132, in scan_colored_postits
+    corrected_text = sanitize_text(text_detected)
+  File "server.py", line 65, in sanitize_text
+    return spell(text.lower())
+AttributeError: 'NoneType' object has no attribute 'lower'
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 180, in api_root
+    check_duplicates(results)
+  File "server.py", line 73, in check_duplicates
+    return SequenceMatcher(None, a, b).ratio()
+NameError: global name 'a' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 155, in api_root
+    results = scan_colored_postits(image)
+  File "server.py", line 130, in scan_colored_postits
+    results_for_color.append({"text" : corrected_text, "color" : "orange", "y": y})
+NameError: global name 'results_for_color' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 163, in api_root
+    results = removeDuplicates(results, .8)
+  File "server.py", line 72, in removeDuplicates
+    for index, item in enumerate(itertools.combinations(results, 2)):
+NameError: global name 'itertools' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 209, in api_root
+    results = scan_colored_postits(image)
+  File "server.py", line 171, in scan_colored_postits
+    color = determine_color(postit)
+  File "server.py", line 104, in determine_color
+    {"rgb" : YELLOW, name: "yellow"},
+NameError: global name 'name' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 209, in api_root
+    results = scan_colored_postits(image)
+  File "server.py", line 171, in scan_colored_postits
+    color = determine_color(postit)
+  File "server.py", line 118, in determine_color
+    d = dist.euclidean(color['rgb'], mean)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/scipy/spatial/distance.py", line 553, in euclidean
+    return minkowski(u, v, p=2, w=w)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/scipy/spatial/distance.py", line 470, in minkowski
+    u_v = u - v
+ValueError: operands could not be broadcast together with shapes (3,) (4,) 
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 203, in api_root
+    results = scan_colored_postits(image)
+  File "server.py", line 165, in scan_colored_postits
+    color = determine_color(postit)
+  File "server.py", line 116, in determine_color
+    if d < minDist[0]:
+TypeError: 'float' object has no attribute '__getitem__'
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_one_pass.py", line 269, in api_root
+    image = cv2.imread(args["image"])
+NameError: global name 'args' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_one_pass.py", line 231, in api_root
+    contours_with_text = associate_text_with_countours(contours, text_detected)
+  File "server_one_pass.py", line 199, in associate_text_with_countours
+    if "text" in countour:
+NameError: global name 'countour' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on / [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server_one_pass.py", line 231, in api_root
+    contours_with_text = associate_text_with_contours(contours, text_detected)
+  File "server_one_pass.py", line 203, in associate_text_with_contours
+    validated_text_contours.append(contour)
+NameError: global name 'validated_text_contours' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /img_upload/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1615, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1630, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1740, in make_response
+    rv = self.response_class.force_type(rv, request.environ)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 921, in force_type
+    response = BaseResponse(*_run_wsgi_app(response, environ))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/werkzeug/wrappers.py", line 59, in _run_wsgi_app
+    return _run_wsgi_app(*args)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/werkzeug/test.py", line 923, in run_wsgi_app
+    app_rv = app(environ, start_response)
+TypeError: 'int' object is not callable
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 271, in synthesize_cards
+    currentProject = userData["currentProject"]
+KeyError: 'currentProject'
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 306, in synthesize_cards
+    cards = addCardVectors(cards)
+  File "server.py", line 216, in addCardVectors
+    alpha_word = re.sub(r'[^a-zA-Z ]', '', word).split()[0].lower()
+NameError: global name 're' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 308, in synthesize_cards
+    cards = addCardVectors(cards)
+  File "server.py", line 218, in addCardVectors
+    alpha_word = re.sub(r'[^a-zA-Z ]', '', word).split()[0].lower()
+IndexError: list index out of range
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 307, in synthesize_cards
+    console.log(cards)
+NameError: global name 'console' is not defined
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 309, in synthesize_cards
+    cards = addCardVectors(cards)
+  File "server.py", line 231, in addCardVectors
+    card_vectors_embedded = TSNE(perplexity=40, n_components=2, init='pca', n_iter=2500, random_state=23).fit_transform(card_vectors)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/manifold/t_sne.py", line 858, in fit_transform
+    embedding = self._fit(X)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/manifold/t_sne.py", line 660, in _fit
+    dtype=[np.float32, np.float64])
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/utils/validation.py", line 441, in check_array
+    "if it contains a single sample.".format(array))
+ValueError: Expected 2D array, got 1D array instead:
+array=[].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 313, in synthesize_cards
+    return jsonify(response), 201
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 263, in jsonify
+    (dumps(data, indent=indent, separators=separators), '\n'),
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 123, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 251, in dumps
+    sort_keys=sort_keys, **kw).encode(obj)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 209, in encode
+    chunks = list(chunks)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 434, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 442, in _iterencode
+    o = _default(o)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 80, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 184, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: array([-27.745386, 188.41127 ], dtype=float32) is not JSON serializable
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 315, in synthesize_cards
+    return jsonify(response), 201
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 263, in jsonify
+    (dumps(data, indent=indent, separators=separators), '\n'),
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 123, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 251, in dumps
+    sort_keys=sort_keys, **kw).encode(obj)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 209, in encode
+    chunks = list(chunks)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 434, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 442, in _iterencode
+    o = _default(o)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 80, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 184, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: -27.745386 is not JSON serializable
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 315, in synthesize_cards
+    return jsonify(response), 201
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 263, in jsonify
+    (dumps(data, indent=indent, separators=separators), '\n'),
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 123, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 251, in dumps
+    sort_keys=sort_keys, **kw).encode(obj)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 209, in encode
+    chunks = list(chunks)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 434, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 442, in _iterencode
+    o = _default(o)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 80, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 184, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: -27.745386 is not JSON serializable
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 311, in synthesize_cards
+    cards = addCardVectors(cards)
+  File "server.py", line 240, in addCardVectors
+    return jsonify(cards)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 263, in jsonify
+    (dumps(data, indent=indent, separators=separators), '\n'),
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 123, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 251, in dumps
+    sort_keys=sort_keys, **kw).encode(obj)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 209, in encode
+    chunks = list(chunks)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 434, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 442, in _iterencode
+    o = _default(o)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/json.py", line 80, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py", line 184, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: -27.745386 is not JSON serializable
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 311, in synthesize_cards
+    # add the cards object to the user data to send back
+  File "server.py", line 231, in addCardVectors
+    card_vectors_embedded = TSNE(perplexity=40, n_components=2, init='pca', n_iter=2500, random_state=23).fit_transform(card_vectors)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/manifold/t_sne.py", line 858, in fit_transform
+    embedding = self._fit(X)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/manifold/t_sne.py", line 660, in _fit
+    dtype=[np.float32, np.float64])
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/utils/validation.py", line 441, in check_array
+    "if it contains a single sample.".format(array))
+ValueError: Expected 2D array, got 1D array instead:
+array=[].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 311, in synthesize_cards
+    # add the cards object to the user data to send back
+  File "server.py", line 231, in addCardVectors
+    card_vectors_embedded = TSNE(perplexity=40, n_components=2, init='pca', n_iter=2500, random_state=23).fit_transform(card_vectors)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/manifold/t_sne.py", line 858, in fit_transform
+    embedding = self._fit(X)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/manifold/t_sne.py", line 660, in _fit
+    dtype=[np.float32, np.float64])
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/utils/validation.py", line 441, in check_array
+    "if it contains a single sample.".format(array))
+ValueError: Expected 2D array, got 1D array instead:
+array=[].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+/Users/dbrenners/Desktop/idai/cv-api
+Exception on /synthesize_cards/ [POST]
+Traceback (most recent call last):
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "server.py", line 311, in synthesize_cards
+    # add the cards object to the user data to send back
+  File "server.py", line 231, in addCardVectors
+    card_vectors_embedded = TSNE(perplexity=40, n_components=2, init='pca', n_iter=2500, random_state=23).fit_transform(card_vectors)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/manifold/t_sne.py", line 858, in fit_transform
+    embedding = self._fit(X)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/manifold/t_sne.py", line 717, in _fit
+    knn.fit(X)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/neighbors/base.py", line 803, in fit
+    return self._fit(X)
+  File "/Users/dbrenners/.virtualenvs/cv/lib/python2.7/site-packages/sklearn/neighbors/base.py", line 259, in _fit
+    self.n_neighbors
+ValueError: Expected n_neighbors > 0. Got 0
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/idai/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ie/cv-api
+/Users/dbrenners/Desktop/ideation-engine-demo/cv-api

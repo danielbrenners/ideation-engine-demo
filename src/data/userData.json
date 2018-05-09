@@ -1,0 +1,89 @@
+{
+    "userData": {
+        "projects": {
+            "project_A": {
+                "boardCounter": 5,
+                "boards": {
+                    "b4": {
+                        "name": "Example Project",
+                        "cards": {
+                            "c2": {
+                                "type": "text",
+                                "text": "Brainstorm idea here (no bad ideas in a brainstorm).",
+                                "color": "#f9ad49",
+                                "layout": {
+                                    "w": 2,
+                                    "h": 1,
+                                    "x": 4,
+                                    "y": 0,
+                                    "i": "c2",
+                                    "moved": false,
+                                    "static": false
+                                }
+                            },
+                            "c3": {
+                                "type": "text",
+                                "text": "Here's an insightful note from user research.",
+                                "color": "#2aace1",
+                                "layout": {
+                                    "w": 2,
+                                    "h": 1,
+                                    "x": 0,
+                                    "y": 3,
+                                    "i": "c3",
+                                    "moved": false,
+                                    "static": false
+                                }
+                            },
+                            "c4": {
+                                "type": "text",
+                                "text": "\"This is a quote from an expert interview\"",
+                                "color": "#fa51af",
+                                "layout": {
+                                    "w": 2,
+                                    "h": 1,
+                                    "x": 2,
+                                    "y": 0,
+                                    "i": "c4",
+                                    "moved": false,
+                                    "static": false
+                                }
+                            },
+                            "c6": {
+                                "type": "text",
+                                "text": "A quick idea from the team.",
+                                "color": "#e7ef5f",
+                                "layout": {
+                                    "w": 2,
+                                    "h": 1,
+                                    "x": 0,
+                                    "y": 6,
+                                    "i": "c6",
+                                    "moved": false,
+                                    "static": false
+                                }
+                            },
+                            "c9": {
+                                "type": "image",
+                                "color": "transparent",
+                                "url":
+                                    "http://res.cloudinary.com/ddcr8yeds/image/upload/v1525753011/concepts_ds1fu9.jpg",
+                                "layout": {
+                                    "w": 4,
+                                    "h": 1,
+                                    "x": 2,
+                                    "y": 1,
+                                    "i": "c9",
+                                    "moved": false,
+                                    "static": false
+                                }
+                            }
+                        },
+                        "cardCounter": 13
+                    }
+                },
+                "title": "Moon Boots"
+            }
+        }
+    }
+}

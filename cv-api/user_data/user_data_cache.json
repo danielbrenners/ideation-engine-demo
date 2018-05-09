@@ -1,0 +1,104 @@
+{
+    "userData": {
+        "projects": {
+            "moonBoots": {
+                "title": "Moon Boots",
+                "gridCols": 4,
+                "boards": {
+                    "inspiration": {
+                        "name": "Inspiration",
+                        "cards": {
+                            "o1": {
+                                "type": "text",
+                                "color": "#2aace1",
+                                "text": "add text",
+                                "url": "undefined",
+                                "layout": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1,
+                                    "h": 1,
+                                    "i": "o1"
+                                }
+                            }
+                        }
+                    },
+                    "research": {
+                        "name": "Research",
+                        "cards": {
+                            "o1": {
+                                "type": "image",
+                                "color": "white",
+                                "text": "add text",
+                                "url":
+                                    "https://www.ibm.com/blogs/watson/wp-content/uploads/2016/02/IMG_4164.jpg",
+                                "layout": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1,
+                                    "h": 1,
+                                    "i": "o1"
+                                }
+                            },
+                            "o2": {
+                                "type": "image",
+                                "color": "white",
+                                "text": "add text",
+                                "url":
+                                    "https://hyperallergic.com/wp-content/uploads/2017/10/svaExplodingFootnotes_221-1-1080x720.jpg",
+                                "layout": {
+                                    "x": 3,
+                                    "y": 0,
+                                    "w": 1,
+                                    "h": 1,
+                                    "i": "o2"
+                                }
+                            }
+                        }
+                    },
+                    "rock": {
+                        "name": "Rock",
+                        "cards": {
+                            "o1": {
+                                "type": "image",
+                                "color": "white",
+                                "text": "add text",
+                                "url":
+                                    "https://img.wennermedia.com/article-leads-horizontal/led-zeppelin-iv-album-release-review-35c87652-3510-4318-9145-25a24db837f5.jpg",
+                                "layout": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1,
+                                    "h": 1,
+                                    "i": "o1"
+                                }
+                            },
+                            "o2": {
+                                "type": "image",
+                                "color": "white",
+                                "text": "add text",
+                                "url":
+                                    "http://rocktotick.com/wp-content/uploads/2015/03/Rush-Tour-and-Tickets-2015.jpg",
+                                "layout": {
+                                    "x": 1,
+                                    "y": 0,
+                                    "w": 1,
+                                    "h": 1,
+                                    "i": "o2"
+                                }
+                            }
+                        }
+                    },
+                    "apples": {
+                        "name": "Apples",
+                        "cards": {}
+                    },
+                    "oranges": {
+                        "name": "Oranges",
+                        "cards": {}
+                    }
+                }
+            }
+        }
+    }
+}
